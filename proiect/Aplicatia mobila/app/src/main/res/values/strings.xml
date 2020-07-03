@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UVT StudentApp</string>
+    <string name="title_activity_detalii_student">DetaliiStudent</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="title_activity_student_details">StudentDetails</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cnp">CNP</string>
+    <string name="cetatenie">Cetatenie</string>
+    <string name="data_nastere">Data Nastere</string>
+    <string name="detalii_personale">Detalii personale</string>
+    <string name="backupemail">BackupEmail</string>
+    <string name="specializare">Specializare</string>
+</resources>
