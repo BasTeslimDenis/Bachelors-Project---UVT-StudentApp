@@ -13,8 +13,8 @@ import javax.mail.internet.MimeMessage;
 
 public class GoogleEmail {
 
-    final static String fromEmail = "uvtstudentapp@gmail.com"; //requires valid gmail id
-    final static String password = "1234abcdMonitor"; // correct password for gmail id
+    final static String fromEmail = ""; //requires valid gmail id
+    final static String password = ""; // correct password for gmail id
 
         public static void SendEmailConfirmation(String toEmail, String content)
         {
